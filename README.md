@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1>GlamLah Toolkit</h1>
 <br />
 <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
